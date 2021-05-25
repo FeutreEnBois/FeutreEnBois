@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi there 👋 , I am a fellow student at Paris Ynov Campus,
+I'm very interested in video game development!
+If you ever need someone, don't hesitate to contact me.
 
 - 🔭 I’m currently working on Unity
 - 🌱 I’m currently learning Unreal Ungine
