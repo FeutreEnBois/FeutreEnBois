@@ -10,3 +10,4 @@
 - ⚡ Fun fact: 32cm
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FeutreEnBois&show_icons=true&theme=radical)
+![FeutreEnBois's stats](https://github-readme-stats.vercel.app/api?username=FeutreEnBois&count_private=true&show_icons=true&theme=radical) 
