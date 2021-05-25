@@ -5,8 +5,8 @@ I'm very interested in video game development!
 If you ever need someone, don't hesitate to contact me.
 
 - 🔭 I’m currently working on Unity
-- 🌱 I’m currently learning Unreal Ungine
-- 👯 I’m looking to collaborate on JS
+- 🌱 I’m currently learning JS
+- 👯 I’m looking to collaborate on Unreal Ungine 
 - 🤔 I’m looking for help with HTML/CSS
 - 💬 Ask me about C++
 - 📫 How to reach me: derosier.maxime@gmail.com
