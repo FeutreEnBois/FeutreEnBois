@@ -5,10 +5,10 @@ I'm very interested in video game development!
 If you ever need someone, don't hesitate to contact me.
 
 - 🔭 I’m currently working on Unity
-- 🌱 I’m currently learning JS
-- 👯 I’m looking to collaborate on Unreal Ungine 
+- 🌱 I’m currently learning Unity Input System
+- 👯 I’m looking to collaborate on Unreal Ungine or Unity for a game project
 - 🤔 I’m looking for help with HTML/CSS
-- 💬 Ask me about C++
+- 💬 Ask me about C#
 - 📫 How to reach me: derosier.maxime@gmail.com
 - 😄 Pronouns: PAX
 - ⚡ Fun fact: [FeutreEnBois](https://github.com/FeutreEnBois) > [ErikRen](https://github.com/ErikDRen)
