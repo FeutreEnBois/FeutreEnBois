@@ -5,7 +5,7 @@ I'm very interested in video game development!
 If you ever need someone, don't hesitate to contact me.
 
 - 🔭 I’m currently working on Unity
-- 🌱 I’m currently learning Unity Input System
+- 🌱 I’m currently learning how to create more complexe enemy behaviour
 - 👯 I’m looking to collaborate on Unreal Ungine or Unity for a game project
 - 💬 Ask me about C#
 - 📫 How to reach me: derosier.maxime@gmail.com
